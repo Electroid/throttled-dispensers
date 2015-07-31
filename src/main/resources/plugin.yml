@@ -1,0 +1,5 @@
+name: ThrottledDispensers
+version: 0.1
+main: me.electroid.dispenser.ThrottledDispensers
+author: ElectroidFilms
+description: A simple plugin to throttle the speed at which dispensers shoot tnt.

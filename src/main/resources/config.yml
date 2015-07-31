@@ -1,0 +1,4 @@
+# Config for ThrottledDispensers
+
+# The cooldown for dispensers shooting out tnt in milliseconds
+cooldown: 1250
